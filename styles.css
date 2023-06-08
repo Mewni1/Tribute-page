@@ -1,0 +1,25 @@
+
+body{
+  background-color: black;
+}
+#image{
+  max-width: 100%;
+  height: auto;
+  display: block;
+
+
+}
+
+h1,p,figcaption,h2,h4,li{
+  color: white;
+  -webkit-text-stroke: 0.2px black;
+  font-size: 1.5rem;
+  
+
+}
+a{
+  background-color: gray;
+  color: white;
+  
+}
+
